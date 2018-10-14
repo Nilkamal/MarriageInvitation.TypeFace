@@ -1,0 +1,12 @@
+body {
+	background: url(https://i.pinimg.com/originals/56/e2/99/56e2994645c7560f429d6e9a7023ccc7.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.container {
+	min-height: 100vh;
+	margin: 190px auto;
+	text-align: center;
+}
